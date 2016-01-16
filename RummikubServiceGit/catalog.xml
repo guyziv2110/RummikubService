@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/guy/Desktop/WSDL%201.2/WSDL%201.2/RummikubWebServiceService.wsdl" uri="src/conf/xml-resources/web-services/RummikubWebService/wsdl/RummikubWebServiceService.wsdl"/>
+    <system systemId="file:/C:/Users/guy/Desktop/WSDL%201.2/WSDL%201.2/RummikubWebServiceService_schema1.xsd" uri="src/conf/xml-resources/web-services/RummikubWebService/wsdl/RummikubWebServiceService_schema1.xsd"/>
+    <system systemId="file:/C:/Users/guy/Documents/NetBeansProjects/RummikubService/../../../Desktop/XML%20and%20XSD%20v1.1%20(1)/XML%20and%20XSD%20v1.1/rummikub.xsd" uri="src/conf/xml-resources/jaxb/RummikubJAXB/rummikub.xsd"/>
+</catalog>
